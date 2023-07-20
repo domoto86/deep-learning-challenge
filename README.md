@@ -49,9 +49,3 @@ Both Model were ran with the same Compiling, Training and Evaluation Methods. Th
 
 Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
 By increasing the number of layers the accuracy increased but not in a signifcant number. It would be recommended to test it with more lahyers and neurons to coonfirm if the accuracy rate keeps increasing.
-
-
-The model was composed by 3 layers:
-  * First Layer: 80 neurons
-  * Second Layer: 30 Neurons
-  * Third Layer: Output Layer
